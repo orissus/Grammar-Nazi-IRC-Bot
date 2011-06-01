@@ -1,0 +1,12 @@
+This is a very simple bot to point out common mistakes in writing.
+It directly ties into GNU Diction (http://www.gnu.org/software/diction/).
+
+Dependencies include:
+- Perl (tested with v5.10)
+- GNU Diction (tested with v1.10)
+- And the following Perl modules, available from CPAN:
+  - Bot::BasicBot (http://search.cpan.org/perldoc?Bot::BasicBot)
+  - Moose (http://search.cpan.org/perldoc?Moose)
+  - MooseX::NonMoose (http://search.cpan.org/perldoc?MooseX::NonMoose)
+
+The code in this repo is public domain.
